@@ -1,0 +1,17 @@
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\bin\Debug\QLThuChi.exe.config
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\bin\Debug\QLThuChi.exe
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\bin\Debug\QLThuChi.pdb
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.LoginForm.resources
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.Properties.Resources.resources
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.csproj.GenerateResource.cache
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.csproj.CoreCompileInputs.cache
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.exe
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.pdb
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\bin\Debug\EntityFramework.dll
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\bin\Debug\EntityFramework.xml
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.csproj.CopyComplete
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.MainForm.resources
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.csprojAssemblyReference.cache
+C:\Users\manvo\Desktop\QLThuChi\QLThuChi\QLThuChi\obj\Debug\QLThuChi.statisticalForm.resources
